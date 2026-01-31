@@ -1,0 +1,3 @@
+-- Add your manual schema changes here (executed before migrations)
+-- Example: 
+-- CREATE TABLE IF NOT EXISTS manual_logs (id INT AUTO_INCREMENT PRIMARY KEY, msg TEXT);

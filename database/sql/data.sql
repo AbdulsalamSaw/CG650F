@@ -1,0 +1,3 @@
+-- Add your manual data inserts here (executed after migrations)
+-- Example:
+-- INSERT INTO roles (name, description) VALUES ('superuser', 'Total control') ON DUPLICATE KEY UPDATE description=description;
